@@ -1,0 +1,86 @@
+.Home{
+    color: #000;
+    text-align: center;
+    font-family: Roboto Flex;
+    font-size: 30px;
+    font-style: normal; 
+    font-weight: 400;
+    line-height: normal;  
+}
+.Portfolio{
+    color: #575757;
+text-align: center;
+font-family: Roboto Flex;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.Services{
+    color: #575757;
+text-align: center;
+font-family: Roboto Flex;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.About{
+    color: #575757;
+text-align: center;
+font-family: Roboto Flex;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.background{
+    width: 1060px;
+height: 570px;
+flex-shrink: 0;
+fill: #02FDEE;
+position: absolute;
+left: 141px;
+bottom: 159px;
+}
+.text{
+   
+color: black;
+ font-size: 26.14px;
+ font-family: Russo One;
+ font-weight: 400;
+ word-wrap: break-word
+
+color black;
+ font-size: 42.70px;
+ font-family: Russo One;
+ font-weight: 400;
+ word-wrap: break-word
+
+color black;
+ font-size: 15.69px;
+ font-family: Russo One;
+ font-weight: 400;
+ word-wrap: break-word
+}
+
+#certificates {
+    width: 1000px;
+
+}
+#Services{
+    font-size: 20px;
+    font-family: Russo one;
+    font-weight: 400px;
+    word-wrap: break-word;
+}
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="works"] {
+    left: 20px;
+  }
+}
+.d-flex{
+    margin: auto;
+}
+
